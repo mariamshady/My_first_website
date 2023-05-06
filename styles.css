@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(0, 246, 254);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 300%;
+}
+
+
+h2 {
+  color: rgb(250, 36, 3);
+  font-size: 170%;
+}
+
+h3 {
+  color: rgb(251, 0, 0);
+  font-size: 150%;
+}
+
+h4 {
+  color: rgb(255, 4, 4);
+  font-size: 140%;
+}
+
+p {
+  color: rgb(255, 10, 2);
+}
